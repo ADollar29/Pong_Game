@@ -1,0 +1,6 @@
+﻿  Score.cpp
+C:\GLP\Pong_Game20\Globals.h(11,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\GLP\Pong_Game20\Globals.h(14,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\GLP\Pong_Game20\Globals.h(15,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\GLP\Pong_Game20\Globals.h(17,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Pong_Game20.vcxproj -> C:\GLP\Pong_Game20\x64\Debug\Pong_Game20.exe
